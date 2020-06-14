@@ -3,14 +3,14 @@
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
-  transition-duration: 1.00s;
+  transition-duration: 0.90s;
 }
 .morning{
   background-image: url(img1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
-  transition-duration: 1.00s;
+  transition-duration: 0.90s;
 }
 
 
